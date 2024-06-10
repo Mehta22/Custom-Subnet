@@ -12,11 +12,11 @@ import (
 )
 
 const (
-	HRP = "gian"
+	HRP = "mehta"
 
-	Name = "gian"
+	Name = "mehta"
 
-	Symbol = "G"
+	Symbol = "mehta"
 )
 
 var ID ids.ID
